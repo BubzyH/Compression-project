@@ -1,0 +1,28 @@
+12 min de soutenant + ppt (et rapport) => 5points
+
+rapport
+	- introduction
+	- modélisation (choix technique, architecture, solution tech avec pseudo code)
+	- gestion du projet (orga , repartition du travail)
+	- pb , difficultés, trucs appris
+	- conclution
+
+
+3 à 4 pages
+
+10 point sur le code
+	-kalité
+	-le fonctionnement
+	-compilation sans erreur + makefile
+
+5 points sur la modélisation
+
+
+matrice 22*26
+
+utiliser les coordonnées pour calculer les longueurs
+sqrt((x1-x2)^2+(y1-y2)^2)
+chaque case = 10km
+fichier avec les liaisons avec les villes => matrice 17*17
++ matrice de poid generer automatiquement
+les noms des villes sont stockés comme on veut

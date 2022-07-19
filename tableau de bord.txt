@@ -1,0 +1,55 @@
+Initialisation du projet 21/04/2022
+
+- analyse du sujet
+- etude des solutions
+- début du code
+- importation de menu.c et de ses maquettes, du makefile, d'un script de lancement et creation d'un .h
+- faire un fichier qui stock les liaisons entre les villes matrices 17*17 (2)
+
+//25/04/2022
+
+-réécriture makefile
+- comptage de ligne et colonne d'une matrice
+- rajout de fonction d'alloc dynamique de matrice
+-une fonction qui charge la map et l'affiche (1)
+-struct coord
+- recuperation des coordonnées des villes dans un tableau
+- stockage des noms des villes dans un tableau
+-affichage et alloc matrice flat
+-faire une fonction qui calcule la  matrice de poid (2-3)
+
+//26/04
+
+-une fonction qui zip la map (8)
+-une fonction qui dézip la map (9)
+-réadapter le menu.c (10)
+-fenetre pour ecrire des string
+-creation de algo.C
+-creation du menu afficher map, et afficher matrice de poid fonctionnelles
+
+//27/04
+
+-compress map dans un fichier;
+-decompress map dans un autre fichier
+-integration de compress et decompress dans le menu
+-optimiser compression/decompression (enlever matrice + opti compression + commenter)
+-rajout de commentaire
+-afficher les coordonnées des villes sur la droite de la map
+
+//13/05
+
+-creation de l'arbre à poids minimum
+-somme des poids
+
+//15/05
+-corriger matrice de poid x10km
+-creation du dictionnaire huffman
+-fusion du code
+-correction de certain details
+
+//ce qu'il faut faire
+
+
+dézip la solution (6 et 7)
+
+

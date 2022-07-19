@@ -1,0 +1,1 @@
+lille <---> paris, paris <---> orleans, paris <---> dijon, dijon <---> lyon, lyon <---> clermont-Ferrand, lyon <---> grenoble, grenoble <---> geneve, grenoble <---> nice, grenoble <---> montpellier, montpellier <---> perpignan, perpignan <---> toulouse, dijon <---> strasbourg, orleans <---> nantes, nantes <---> rennes, rennes <---> brest, nantes <---> bordeaux
